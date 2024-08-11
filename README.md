@@ -179,7 +179,7 @@ This command maps port 3000 of the container to port 3000 on your host, allowing
 
 ## API Endpoints
 
-For detailed API endpoints, refer to the [API Documentation]([#api-documentation](https://bold-crater-286345.postman.co/workspace/My-Workspace~ae2c7446-bd10-4ab7-8397-94ee08847203/collection/34619336-af7f74b4-7981-4ae8-a7c1-86f00c807b29?action=share&creator=34619336)) section.
+For detailed API endpoints, refer to the [API Documentation](https://bold-crater-286345.postman.co/workspace/My-Workspace~ae2c7446-bd10-4ab7-8397-94ee08847203/collection/34619336-af7f74b4-7981-4ae8-a7c1-86f00c807b29?action=share&creator=34619336) section.
 
 ## Database Schema
 
